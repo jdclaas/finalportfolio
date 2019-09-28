@@ -17,7 +17,7 @@ let resumeData = {
       
       ],
     "aboutme":"I'm currently a student for a UW extention bootcamp learning to be a full-stack developer.",
-    "address":"1012 E Land Pl, Milwaukee WI",
+    "address":"1012 E Land Pl, Milwaukee WI Email: jd_claas@icloud.com Phone Number: 262-751-6509",
     "education":[
       {
         "UniversityName":"UW Extention Program",
